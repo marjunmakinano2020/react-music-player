@@ -1,32 +1,22 @@
-# A clean, minimalistic react music player web application.
+# A music player built using the React framework
 
-This project was made by following Dev Ed's react course, with some of my personal tweaks. In the course, he used scss modules to style, while I used styled components. I choose to use styled components because of the advantage of being able to style based on props, which is personally, is much more convenient than add class and scss modules.
+## Demo
 
-![alt text](https://i.ibb.co/VtT4JPc/image.png "Vibes music web application")
-![alt text](https://i.ibb.co/CtSvzvd/image.png "Vibes music web application with libraries")
+## Setup
 
-## Test it out yourself!
-
-https://wilson-react-music-player.vercel.app/
-
-Clone the repository and start testing out the application yourself!
-
-In the project directory, you can run:
-
+Clone the repository
 ```
-// 1. If you have not installed Yarn:
-npm install yarn
+git clone https://github.com/marjunmakinano2020/react-music-player.git
+```
 
-// 2. Install the dependencies:
+Install the dependencies
+```
+cd react-music-player
 yarn install
+```
 
-// 3. Kick start the project in development mode:
+Run
+```
 yarn start
 ```
-
-If you're ready to deploy the application to the internet, use:
-```
-yarn build
-```
-This will build the app for production to the "build" foler. The Built version will be optimized for best performance.
 
